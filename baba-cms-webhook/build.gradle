@@ -21,7 +21,7 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 bootJar {
-    baseName = 'gs-spring-boot'
+    baseName = 'baba-cms-webhook'
     version =  '0.1.0'
 }
 

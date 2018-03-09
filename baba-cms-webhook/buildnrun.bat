@@ -1,1 +1,1 @@
-gradlew build && java -jar build/libs/gs-spring-boot-0.1.0.jar
+gradlew build && java -jar build/libs/baba-cms-webhook-0.1.0.jar
